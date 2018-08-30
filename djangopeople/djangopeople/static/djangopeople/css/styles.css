@@ -760,6 +760,12 @@ div#hiddenLogin .openid a:active {
 
 /* @end */
 
+/* @group RecentPeople */
+.country-name { 
+	height: 1em;
+}
+/* @end */
+
 /* @group Navigation */
 
 .nav {
